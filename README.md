@@ -58,7 +58,10 @@ SEER Data Use Agreement. To replicate this analysis:
 - Microsoft Excel
 
 ---
+## Sample Results
 
+![Stage Distribution](figures/fig4.png)
+![Survival Time](figures/fig6.png)
 ## Citation
 If you use this cleaning pipeline or analysis in your work, please cite:
 
