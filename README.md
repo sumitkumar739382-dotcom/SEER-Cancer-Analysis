@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Data](https://img.shields.io/badge/Data-SEER%20NCI-red)
+![Patients](https://img.shields.io/badge/Patients-4.2M-orange)
 # SEER Cancer Data Analysis
 ## A Comparative Statistical Analysis of Five Major Cancers
 ### Breast | Liver | Lung & Bronchus | Prostate | Stomach
