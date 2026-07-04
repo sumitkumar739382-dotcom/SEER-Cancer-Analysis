@@ -1,0 +1,1 @@
+#this document contains process to access seer database
